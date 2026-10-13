@@ -105,6 +105,3 @@ Both controllers were synthesized and deployed on a Spartan-6 board, and the des
 - FPGA synthesis, pin constraints, and on-board validation
 - Hardware/software integration (C++ to FPGA over UART)
 - Signal-level debugging with a logic analyzer
-
-## License
-Add your license here (e.g. MIT).
